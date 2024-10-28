@@ -1,5 +1,14 @@
-# Hallo, *bonjour*, welcome - I'm Jady le Bars! 🧚‍♀️
+# Hallo, *bonjour*, welcome 🧚‍♀️
 
-An international expansion & project management specialist currently learning how to code 🪄
+ I'm Jady, a polyglot globetrotter originally from the Netherlands but based in Berlin. 
+ 
+ I'm an international expansion & project management specialist currently learning how to code 🪄
 
-[🔖 Let's connect](https://www.linkedin.com/in/jady-le-bars/)
+ ## 📮 Get in touch
+Email: js.lebars@gmail.com
+
+LinkedIn: [Jady le Bars](https://www.linkedin.com/in/jady-le-bars/)
+
+## 🛠 Tools & Skills
+*Asana, Atlassian, Google G Suite, Iconosquare, Klaviyo, Miro, MS Office Suite, Onlypult, Oracle, Shopify, Trados, Zendesk*
+*Project Management, Business Expansion, Stakeholder Management, Team Leadership, Scalability  Optimization*
