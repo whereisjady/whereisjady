@@ -1,1 +1,1 @@
-# H1 Hallo, *bonjour*, welcome!
+# Hallo, *bonjour*, welcome!
