@@ -10,6 +10,6 @@ Email: js.lebars@gmail.com
 LinkedIn: [Jady le Bars](https://www.linkedin.com/in/jady-le-bars/)
 
 ## 🛠 Tools & Skills
-*Asana, Atlassian, Google G Suite, Iconosquare, Klaviyo, Miro, MS Office Suite, Onlypult, Oracle, Shopify, Trados, Zendesk*
+*Asana, Atlassian, Google G Suite, Iconosquare, Miro, MS Office Suite, Onlypult, Oracle, Shopify, Trados, Zendesk*
 
 *Project Management, Business Expansion, Stakeholder Management, Team Leadership, Scalability  Optimization*
