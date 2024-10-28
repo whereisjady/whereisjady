@@ -4,6 +4,11 @@
  
  I'm an international expansion & project management specialist currently learning how to code 🪄
 
+ ## 👩🏽‍💻 Recent work
+ * soon
+ * to
+ * come
+
  ## 📮 Get in touch
 Email: js.lebars@gmail.com
 
