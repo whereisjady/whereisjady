@@ -22,4 +22,5 @@ LinkedIn: [Jady le Bars](https://www.linkedin.com/in/jady-le-bars/)
 *Asana, Atlassian, Google G Suite, Iconosquare, Miro, MS Office Suite, Onlypult, Oracle, Shopify, Trados, Zendesk*
 
 *Project Management, Business Expansion, Stakeholder Management, Team Leadership, Scalability  Optimization*
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
