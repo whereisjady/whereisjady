@@ -1,4 +1,4 @@
-# Hallo, *bonjour*, welcome
+# Welcome
 
  I'm Jady, an international expansion & project management specialist based in Berlin, currently learning how to code! 🪄
 
